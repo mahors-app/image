@@ -1,0 +1,10 @@
+https://static.cdninstagram.com/rsrc.php/yb/r/SxCWlJznXoy.svg
+https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg
+https://s1.wp.com/wp-content/themes/h4/assets/logo-outlines/720.svg
+https://s1.wp.com/wp-content/themes/h4/assets/logo-outlines/480.svg
+https://s1.wp.com/wp-content/themes/h4/assets/gridicons-white/logo-wordpress.svg
+https://s1.wp.com/wp-content/themes/h4/assets/gridicons-gray-100/quote.svg
+https://s1.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/images/lightbox/close.svg
+https://s1.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/images/lightbox/arrow-left.svg
+https://s1.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/images/lightbox/arrow-right.svg
+https://s1.wp.com/wp-content/plugins/coblocks/2.18.1-simple-rev.4/dist/images/social/twitter.svg
